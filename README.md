@@ -1,6 +1,6 @@
 # SM64RM Plugin Collection
 
-A collection of plugins for [Super Mario 64 ROM Manager](https://gitlab.com/Pilzinsel64/sm64-rom-manager), mostly to improve user experience.
+A collection of plugins for [Super Mario 64 ROM Manager](https://gitlab.com/Pilzinsel64/sm64-rom-manager), mostly to improve user experience for the few crazies (including me) who still use it.
 
 ## Plugins
 For more detailed explanations and a list of dependencies, check the respective plugin's README.
