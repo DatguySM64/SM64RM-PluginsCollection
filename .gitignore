@@ -1,0 +1,20 @@
+**/bin/
+**/obj/
+Shared Libs/
+SM64 ROM Manager/
+SM64 ROM Manager.ApplyPPF/
+SM64 ROM Manager.ModelConverterGUI/
+SM64 ROM Manager.ModelImporterGUI/
+SM64 ROM Manager.PatchScripts/
+SM64 ROM Manager.Plugins/
+SM64 ROM Manager.Plugins.ExternalToolsDetection/
+SM64 ROM Manager.Plugins.RomConfigEditor/
+SM64 ROM Manager.Publics/
+SM64 ROM Manager.SettingsManager/
+SM64 ROM Manager.UserRequests/
+SM64 ROM Manager.UserRequests.GUI/
+SM64Lib/
+SM64Lib.LIBMIO0/
+SM64Lib.N64Graphics/
+SM64Lib.Text.Exporters/
+SM64Lib.TextValueConverter/
